@@ -1,0 +1,4 @@
+Please enter an integer for position: 10
+The fibonacci number at the entered position is: 55
+The array of all calculated values is: 0 1 1 2 3 5 8 13 21 34 55 
+-- program is finished running --

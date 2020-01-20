@@ -1,0 +1,4 @@
+Please enter an integer for position: 20
+The fibonacci number at the entered position is: 6765
+The array of all calculated values is: 0 1 1 2 3 5 8 13 21 34 55 89 144 233 377 610 987 1597 2584 4181 6765 
+-- program is finished running --
